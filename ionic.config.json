@@ -1,0 +1,7 @@
+{
+  "name": "ionic_photo_viewer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
